@@ -1,7 +1,3 @@
-# basic-blog-page
-
-Bu proje, Next.js kullanılarak geliştirilmiş basit bir blog sayfasıdır.  
-Next.js ile ilk denememdir ve temel sayfa oluşturma ve içerik listeleme mantığını öğrenmek amacıyla yapılmıştır.
 
 ## Özellikler
 
